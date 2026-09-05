@@ -20,6 +20,10 @@
     "finished_floor_datum_verified": null,
     "structural_penetrations_verified": null
   },
+  "room_classification": {
+    "documented_and_actual_uses_verified": null,
+    "storage_laundry_classification_verified": null
+  },
   "water_heater": {
     "type": null,
     "pressure_system": null,
