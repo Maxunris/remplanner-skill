@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.env
+.env.*
+!.env.example
+*.plan
+*.pdf
+*.zip
+private/
+output/
+tmp/
+.worktrees/

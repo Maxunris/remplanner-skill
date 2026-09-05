@@ -1,0 +1,6 @@
+interface:
+  display_name: "RemPlanner — план и инженерные проверки"
+  short_description: "Планировка, инженерные системы и проверяемые нормы"
+  default_prompt: "Используй $remplanner-browser для проверки и исправления проекта RemPlanner с привязкой решений к актуальным источникам и исходным данным."
+policy:
+  allow_implicit_invocation: true

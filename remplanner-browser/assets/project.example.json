@@ -1,0 +1,38 @@
+{
+  "configuration_version": 1,
+  "purpose": "Private project settings; not a native RemPlanner plan or validator input",
+  "jurisdiction": {"country":"RU","region":null,"building_type":null,"work_stage":null},
+  "units": "cm",
+  "preferences": {
+    "budget_priority": "functional_standard_products",
+    "door_clearance_cm": 30,
+    "door_clearance_reference": "frame_edge_requires_separate_verification",
+    "heights_cm": {"room_socket":30,"kitchen_worktop_socket":110,"tv_socket":150},
+    "height_basis": "example_user_preferences_not_universal_norms",
+    "preserve_hvac_rough_ins": true
+  },
+  "facts": {
+    "supply_phases": null,
+    "allocated_power_kw": null,
+    "earthing_system": null,
+    "protective_earthing_verified": null,
+    "riser_positions_and_outlet_elevations_verified": null,
+    "finished_floor_datum_verified": null,
+    "structural_penetrations_verified": null
+  },
+  "water_heater": {
+    "type": null,
+    "pressure_system": null,
+    "model": null,
+    "volume_l": null,
+    "power_kw": null,
+    "served_fixtures": [],
+    "mounting_orientation": null,
+    "filled_mass_kg": null,
+    "relief_discharge_solution": null,
+    "service_access_verified": null,
+    "electrical_connection_verified": null
+  },
+  "source_records": [],
+  "decisions": []
+}

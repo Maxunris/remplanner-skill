@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "units": "cm",
+  "boundary": [[0, 0], [100, 0], [100, 100], [0, 100]],
+  "obstacles": [],
+  "graphs": [{
+    "id": "route",
+    "geometry": "polyline",
+    "vertices": [{"id": "a", "point": [10, 10]}, {"id": "b", "point": [90, 10]}],
+    "matrix": [[null, 80], [80, null]]
+  }],
+  "points": [{"id": "switch", "point": [20, 40], "role": "switch", "height_cm": 90}],
+  "doors": [{"id": "door", "a": [50, 0], "b": [70, 0]}],
+  "preferences": {"door_clearance_cm": 10, "heights_cm": {"switch": 90}},
+  "required_facts": {"coordinate_source": "synthetic_fixture"}
+}
