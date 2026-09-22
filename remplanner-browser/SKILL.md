@@ -16,6 +16,7 @@ description: Use when creating, editing or auditing apartment plans in RemPlanne
 | Задача | Обязательный материал |
 | --- | --- |
 | Интерфейс, импорт, сохранение, PDF | [RemPlanner](references/remplanner.md) |
+| Перестановка, проходы, кухня, хранение, бюджет, 3D | [Эргономика и бюджет](references/ergonomics.md) |
 | Розетки, выключатели, кабели, щит, ванная | [Электрика](references/electrical.md) |
 | Вода, канализация, бойлер, AC, вытяжка, гидроизоляция | [Инженерные системы](references/plumbing.md) |
 | Настройки, автоматическая проверка координат | [Формат проверки](references/configuration.md) |
